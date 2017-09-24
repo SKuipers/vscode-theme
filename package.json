@@ -1,0 +1,22 @@
+{
+    "name": "skuipers.theme-slack-code",
+    "displayName": "Slack Code",
+    "description": "Personal slack-like VSCode theme",
+    "version": "0.0.1",
+    "publisher": "skuipers",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slack Code",
+                "uiTheme": "vs",
+                "path": "./themes/Slack Code-color-theme.json"
+            }
+        ]
+    }
+}
