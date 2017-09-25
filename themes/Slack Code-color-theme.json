@@ -33,7 +33,7 @@
 		"editor.findMatchBackground"             : "#fff9ae",
 		"editor.findMatchHighlightBackground"    : "#fff9ae",
 		"editor.findRangeHighlightBackground"    : "#fff9ae",
-		"editor.hoverHighlightBackground"        : "#3e313c",
+		"editor.hoverHighlightBackground"        : "#e2eefb",
 		"editorHoverWidget.background"           : "#ffffff",
 		"editor.lineHighlightBackground"         : "#2c2d3033",
 		"editorCursor.foreground"                : "#00bbec",
