@@ -135,7 +135,7 @@
 				"punctuation.definition.comment.ts"
 			],
 			"settings": {
-				"foreground": "#727069"
+				"foreground": "#867F6E" //"#727069"
 			}
 		},
 		{
